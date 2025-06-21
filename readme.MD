@@ -53,5 +53,5 @@ A cross-platform AI-powered image generator with prompt embedding search, built 
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/mr-ben-jeckson/weaviate-openai-image-generator
-cd ai-image-generator
+git clone https://github.com/mr-ben-jeckson/weaviate-openai-image-generator.git
+cd weaviate-openai-image-generator
