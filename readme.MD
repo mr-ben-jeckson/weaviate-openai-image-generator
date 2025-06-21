@@ -1,5 +1,5 @@
 # 🧠 Open Source AI Image Generator MVP
-Not sure when I start or finish (chanlleges to me to me)
+Not sure when I start or finish (chanlleges to me)
 A cross-platform AI-powered image generator with prompt embedding search, built with:
 
 ### 👤 User App
